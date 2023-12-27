@@ -1,4 +1,4 @@
-<h3 align="center">Stiching business and tech</h3>
+<h3 align="center">I :heart: REDD</h3>
 
 <h3 align="center"><img src="https://github.com/ssood/ssood/assets/2881369/ad374cf6-488f-447a-9076-22bdceefa8d4" width="400"/></h3>
 
