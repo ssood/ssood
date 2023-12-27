@@ -1,5 +1,5 @@
-<h3 align="center">I :heart: REDD</h3>
-<h2 align="center"><h4 align="center"> Researching,educating or consulting & developing awesome software while delivering state of the art course MVPs</h4>
+<h3 align="center">I :heart: RED</h3>
+<h2 align="center"><h4 align="center"> Researching,educating & developing awesome software MVPs</h4>
 </h2>
 
 
