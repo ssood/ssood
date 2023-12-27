@@ -1,5 +1,5 @@
 <h3 align="center">I :heart: RED</h3>
-<h2 align="center"><h3 align="center"> Research, educate & develop engaging software </h3>
+<h2 align="center"><h3 align="center"> Research, educate & develop MVP software </h3>
 </h2>
 <h3 align="center"><img src="https://github.com/ssood/ssood/assets/2881369/1a026952-d428-48be-b2e4-c49d75800307" width="400"/></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssood&label=Profile%20views&color=0e75b6&style=flat" alt="ssood" /> </p>
